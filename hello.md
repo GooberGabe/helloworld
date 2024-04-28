@@ -31,9 +31,9 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.  For the Hello World program, you will complete this at the end of Week 1.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/GooberGabe/helloworld
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://drive.google.com/file/d/1-ZPIL4qgVovHo4j2b4Yn7USHgjHT542T/view?usp=sharing
 
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
@@ -51,8 +51,9 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|20min              |
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+This sprint was pretty easy. 
 
